@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1,TVP 1
+http://195.206.253.157:10101/tvp1
+#EXTINF:-1,TVP 2
+http://internetowa.tv/?c=hlsPlay&channel=tvp2-test&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,TVP Warszawa
+http://195.206.253.157:17000/tvp3
+#EXTINF:-1 ,TVP Białystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:-1 ,TVP Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:-1 ,TVP Gdańsk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:-1 ,TVP Gorzów Wlkp.
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:-1 ,TVP Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:-1 ,TVP Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:-1 ,TVP Kraków
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:-1 ,TVP Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:-1 ,TVP Łódź
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+#EXTINF:-1 ,TVP Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:-1 ,TVP Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:-1 ,TVP Poznań
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:-1 ,TVP Rzeszów
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:-1 ,TVP Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:-1, TVP Kultura
+http://stariptv.top:2086/7899/7899/17878   
+#EXTINF:-1,TVN HD
+http://195.206.253.157:10301/tvn
+#EXTINF:-1,TVN 7 HD
+http://195.206.253.157:10501/tvnsiedem
+#EXTINF:-1,Polsat
+http://195.206.253.157:10801/polsat
+#EXTINF:-1,TV 4
+http://internetowa.tv/?c=hlsPlay&channel=tv4&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,POLSAT 2 HD
+http://195.206.253.157:10901/polsat2
+#EXTINF:-1,TV Puls
+http://internetowa.tv/?c=hlsPlay&channel=tvpuls&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,TVP Polonia
+http://internetowa.tv/?c=hlsPlay&channel=tvppolonia&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,TV6 HD
+http://195.206.253.157:14500/tv6
+#EXTINF:-1,TTV HD
+http://195.206.253.157:20010/ttv
+#EXTINF:-1,Puls 2
+http://195.206.253.157:13900/religiatv
+#EXTINF:-1,TVS
+http://195.206.253.157:8801/tvs
+#EXTINF:-1,ZOOM TV
+http://stariptv.top:2086/7899/7899/17911
+#EXTINF:-1,TVP INFO HD
+http://195.206.253.157:8501/tvpinfo
+#EXTINF:-1,TVN 24 HD
+http://195.206.253.157:10401/tvn24
+#EXTINF:-1,TVN24 BiS HD
+http://195.206.253.157:19700/tvn24bis
+#EXTINF:-1,Polsat News HD
+http://195.206.253.157:11001/polsat
+#EXTINF:-1,Polsat News 2
+http://stariptv.top:2086/7899/7899/17834 
+#EXTINF:-1,BBC HD
+http://195.206.253.157:17500/bbchd
+#EXTINF:-1,TV Republika
+http://internetowa.tv/?c=hlsPlay&channel=republikatv&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Canal+
+http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Canal+ Film
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Canal+ Family
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Domo+ HD
+http://195.206.253.157:15700/domoplus
+#EXTINF:-1,HBO HD
+http://195.206.253.157:20300/hbo
+#EXTINF:-1,HBO 2
+http://195.206.253.157:19100/hbo2
+#EXTINF:-1,HBO 3
+http://195.206.253.157:19200/hbo3
+#EXTINF:-1,TVN Fabula
+http://internetowa.tv/?c=hlsPlay&channel=tvnfabula&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,AXN
+http://internetowa.tv/?c=hlsPlay&channel=axn&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,13 Ulica
+http://internetowa.tv/?c=hlsPlay&channel=13ulica&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Film
+http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Kino Polska
+http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Cafe
+http://195.206.253.157:19500/polsatcafe
+#EXTINF:-1,Polsat Play
+http://195.206.253.157:19400/polsatplay
+#EXTINF:-1,TVP Seriale
+http://internetowa.tv/?c=hlsPlay&channel=tvpseriale&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Cinemax
+http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Cinemax 2
+http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,FOX
+http://internetowa.tv/?c=hlsPlay&channel=fox&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Comedy Central
+http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Seriale
+http://stariptv.top:2086/7899/7899/17885
+#EXTINF:-1,CI Polsat
+http://internetowa.tv/?c=hlsPlay&channel=cipolsat&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,TVP Rozrywka
+http://195.206.253.157:16700/tvprozrywka
+#EXTINF:-1,FOX Comedy
+http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Kino TV
+http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Ale kino+ HD
+http://195.206.253.157:9601/alekino
+#EXTINF:-1,Paramount Channel HD
+http://stariptv.top:2086/7899/7899/17910 
+#EXTINF:-1,AXN
+http://internetowa.tv/?c=hlsPlay&channel=axn&token=aeb6c3d7b07d0db4eb1ebbbbcdaf330f2a0d68827994f2aa30ec682557ab9c43d1a8555f3165b3ee6f377e4867c4bb45d1798bf62dccc985093e90b653204b32
+#EXTINF:-1,AXN Spin
+http://stariptv.top:2086/7899/7899/17905
+#EXTINF:-1,AXN Black
+http://195.206.253.157:14200/axnblack
+#EXTINF:-1,AXN White
+http://195.206.253.157:14400/axnwhite
+#EXTINF:-1,TNT HD
+http://195.206.253.157:18700/tnt
+#EXTINF:-1,Filmbox Action
+http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Filmbox Family
+http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,FilmBox Premium HD
+http://195.206.253.157:15900/filmbox
+#EXTINF:-1,FilmBox Extra
+http://195.206.253.157:11501/filmboxextra
+#EXTINF:-1,Canal+ Seriale
+http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=aeb6c3d7b07d0db4eb1ebbbbcdaf330f2a0d68827994f2aa30ec682557ab9c43d1a8555f3165b3ee6f377e4867c4bb45d1798bf62dccc985093e90b653204b32
+#EXTINF:-1,CBS Reality
+http://stariptv.top:2086/7899/7899/17903
+#EXTINF:-1,BBC First
+http://stariptv.top:2086/7899/7899/17913  
+#EXTINF:-1,Kuchnia+
+http://internetowa.tv/?c=hlsPlay&channel=kuchniaplus&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Canal+ Sport
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Canal+ Sport 2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2-test&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Eurosport 1
+http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Eurosport 2
+http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Eurosport 3 HD
+http://195.206.253.157:8001/eurosport3hd
+#EXTINF:-1,Polsat Sport
+http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,TVP Sport
+http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,nSport+
+http://195.206.253.157:8201/nsport
+#EXTINF:-1,Eleven Sports 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Eleven Sports 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Eleven Sports 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Eleven Sports 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Extra
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Premium 1
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Premium 2
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Premium 3
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium3&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Premium 4
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium4&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Fight
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport News
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Extreme Sports
+http://internetowa.tv/?c=hlsPlay&channel=extremesports&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Sportklub HD
+http://195.206.253.157:16100/sportklub
+#EXTINF:-1,Fightbox HD
+http://195.206.253.157:14300/fightbox
+#EXTINF:-1,TLC
+http://internetowa.tv/?c=hlsPlay&channel=tlc&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,ID HD
+http://195.206.253.157:19800/id
+#EXTINF:-1,Discovery Channel
+http://internetowa.tv/?c=hlsPlay&channel=discovery&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Discovery Science
+http://195.206.253.157:11301/discoverysci
+#EXTINF:-1,Discovery Life HD
+http://195.206.253.157:8401/animalplanet
+#EXTINF:-1,National Geographic
+http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,National Geographic Wild
+http://internetowa.tv/?c=hlsPlay&channel=natgeowild&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINT:-1,BBC Earth
+http://stariptv.top:2086/7899/7899/17912
+#EXTINF:-1,TVN Style
+http://internetowa.tv/?c=hlsPlay&channel=tvnstyle&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,TVN Turbo
+http://internetowa.tv/?c=hlsPlay&channel=tvnturbo&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,TVP Historia
+http://internetowa.tv/?c=hlsPlay&channel=tvphistoria&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Motowizja HD
+http://195.206.253.157:16200/motowizja
+#EXTINF:-1,Fokus TV
+http://195.206.253.157:18300/fokus
+#EXTINF:-1,History HD
+http://195.206.253.157:8101/history
+#EXTINF:-1,History 2 HD
+http://195.206.253.157:17700/h2hd
+#EXTINF:-1,Canal+ Dokument
+http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Doku
+http://internetowa.tv/?c=hlsPlay&channel=polsatdoku&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Viasat Explore
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasatexplore&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Viasat History
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasathistory&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Viasat Nature
+http://internetowa.tv/?c=hlsPlay&channel=polsatviasatnature&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Nat Geo People
+http://internetowa.tv/?c=hlsPlay&channel=natgeopeople&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Planete+
+http://internetowa.tv/?c=hlsPlay&channel=planeteplus&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Animal Planet
+http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Travel Channel HD
+http://195.206.253.157:18800/travelch
+#EXTINF:-1,Da Vinci
+http://195.206.253.157:17200/davinci
+#EXTINF:-1,Boomerang HD
+http://195.206.253.157:20100/boomerang
+#EXTINF:-1,Disney XD
+http://195.206.253.157:9201/disneyxd
+#EXTINF:-1,Disney Channel HD
+http://195.206.253.157:12401/disneychannel
+#EXTINF:-1,Nick Jr
+http://195.206.253.157:13000/viacomblink
+#EXTINF:-1,BBC CBeebies
+http://195.206.253.157:13100/cbeebies
+#EXTINF:-1,MiniMini+
+http://internetowa.tv/?c=hlsPlay&channel=miniminiplus&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Jim Jam
+http://195.206.253.157:20200/jimjam
+#EXTINF:-1,Cartoon Network
+http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Nickelodeon
+http://195.206.253.157:17900/nickel
+#EXTINF:-1,Nick Toons
+http://stariptv.top:2086/7899/7899/17860
+#EXTINF:-1,TVP ABC
+http://internetowa.tv/?c=hlsPlay&channel=tvpabc&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Disney Junior
+http://internetowa.tv/?c=hlsPlay&channel=disneyjunior&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,MTV Polska
+http://internetowa.tv/?c=hlsPlay&channel=mtvpolska&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,MTV Music
+http://195.206.253.157:12301/vivapolska\
+#EXTINF:-1,MTV Live
+http://stariptv.top:2086/7899/7899/17893 
+#EXTINF:-1,VH1
+http://195.206.253.157:18000/vh1
+#EXTINF:-1,4fun TV
+http://195.206.253.157:17100/4fun
+#EXTINF:-1,4fun TV GOLD
+http://stariptv.top:2086/7899/7899/17910  
+#EXTINF:-1,Eska TV
+http://internetowa.tv/?c=hlsPlay&channel=eskatv&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polo TV
+http://internetowa.tv/?c=hlsPlay&channel=polotv&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Disco Polo Music
+http://internetowa.tv/?c=hlsPlay&channel=discopolomusic&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Music
+http://stariptv.top:2086/7899/7899/17884
+#EXTINF:-1,TVP 2
+http://internetowa.tv/?c=hlsPlay&channel=tvp2&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Republika TV
+http://internetowa.tv/?c=hlsPlay&channel=tvrepublika&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Stopklatka TV
+http://internetowa.tv/?c=hlsPlay&channel=stopklatkatv&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Ale Kino+
+http://internetowa.tv/?c=hlsPlay&channel=alekinoplus&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,SCI FI
+http://internetowa.tv/?c=hlsPlay&channel=scifi&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Premium 5
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium5&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Polsat Sport Premium 6
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium6&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,Fokus TV
+http://internetowa.tv/?c=hlsPlay&channel=fokustv&token=50fbc323904c217f29314f585cc1b29d7d1fa9a243446c3177f8c91b85d26c2b31534cd79d1753054c9f6959849911c05a392743941ef9abb54aee334812bf8b
+#EXTINF:-1,AMC HD
+http://stariptv.top:2086/7899/7899/17908
